@@ -1,0 +1,20 @@
+c:\users\tunahan\documents\visual studio 2010\Projects\notepad\notepad\bin\Debug\notepad.exe
+c:\users\tunahan\documents\visual studio 2010\Projects\notepad\notepad\bin\Debug\notepad.pdb
+c:\users\tunahan\documents\visual studio 2010\Projects\notepad\notepad\obj\x86\Debug\notepad.Form1.resources
+c:\users\tunahan\documents\visual studio 2010\Projects\notepad\notepad\obj\x86\Debug\notepad.Properties.Resources.resources
+c:\users\tunahan\documents\visual studio 2010\Projects\notepad\notepad\obj\x86\Debug\notepad.csproj.GenerateResource.Cache
+c:\users\tunahan\documents\visual studio 2010\Projects\notepad\notepad\obj\x86\Debug\notepad.exe
+c:\users\tunahan\documents\visual studio 2010\Projects\notepad\notepad\obj\x86\Debug\notepad.pdb
+C:\Users\TUNAHAN\documents\visual studio 2010\Projects\notepad\notepad\obj\x86\Debug\notepad.csprojResolveAssemblyReference.cache
+C:\Users\TUNAHAN\documents\visual studio 2010\Projects\notepad\notepad\obj\x86\Debug\notepad.splash.resources
+C:\Users\TUNAHAN\documents\visual studio 2010\Projects\notepad\notepad\obj\x86\Debug\notepad.hakkinda.resources
+C:\Users\TUNAHAN\Desktop\TunahanAliÖztürk-2184257013\notepad\notepad\obj\x86\Debug\notepad.exe
+C:\Users\TUNAHAN\Desktop\TunahanAliÖztürk-2184257013\notepad\notepad\obj\x86\Debug\notepad.pdb
+C:\Users\TUNAHAN\Desktop\TunahanAliÖztürk-2184257013\notepad\notepad\bin\Debug\notepad.exe
+C:\Users\TUNAHAN\Desktop\TunahanAliÖztürk-2184257013\notepad\notepad\bin\Debug\notepad.pdb
+C:\Users\TUNAHAN\Desktop\TunahanAliÖztürk-2184257013\notepad\notepad\obj\x86\Debug\notepad.csprojResolveAssemblyReference.cache
+C:\Users\TUNAHAN\Desktop\TunahanAliÖztürk-2184257013\notepad\notepad\obj\x86\Debug\notepad.Form1.resources
+C:\Users\TUNAHAN\Desktop\TunahanAliÖztürk-2184257013\notepad\notepad\obj\x86\Debug\notepad.hakkinda.resources
+C:\Users\TUNAHAN\Desktop\TunahanAliÖztürk-2184257013\notepad\notepad\obj\x86\Debug\notepad.Properties.Resources.resources
+C:\Users\TUNAHAN\Desktop\TunahanAliÖztürk-2184257013\notepad\notepad\obj\x86\Debug\notepad.splash.resources
+C:\Users\TUNAHAN\Desktop\TunahanAliÖztürk-2184257013\notepad\notepad\obj\x86\Debug\notepad.csproj.GenerateResource.Cache
